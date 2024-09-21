@@ -1,54 +1,53 @@
-- <b>3 Shortner </b>Verification Mode
-- Advance <b> Spell Check </b> Mode
-- Premium <b>User Refferal </b> Mode
-- <b>Premium User Access </b> Mode
-- Custom <b> Force Subscribe </b> Mode
-- <b>AI TTS</b> Voice Making Feature
-- Pm Searching on off mode
-- <b> Bot Handeling commands </b> For Admins
-- <b> Season </b> button in search mode (users can choose their web series season)
-- <b> Language </b> Button in search mode (users can choose language of their files)
-- <b>Quality </b> Button in search mode (users can choos Quality of their files)
-- <b>Years </b> Button in search mode (users can choos Years of their mve.. sers..)
-- Group admin Can select their 3 shortner site and Tutorial Video
-- Indexes Files above 2GB
-- PreDVD and CamRip Delete Mode
-- Multiple File Deletion
-- Settings Menu
-- Welcome Message
-- Automatic File Filtering
-- Double Filter Button
-- Single Filter Button
-- Bot PM File Send Mode
-- Auto File Send
-- Forward Restriction
-- File Protection
-- Manual File Filtering
-- Global File Filtering
+<center>FTM ULTRA BOT</center>
+
+- **3 Shortner** Verification Mode
+- Advance **Spell Check** Mode
+- Premium **User Referral** Mode
+- **Premium User Access** Mode
+- Custom **Force Subscribe** Mode
+- **AI TTS** Voice Making Feature
+- PM Searching on/off mode
+- **Bot Handling Commands** for Admins
+- **Season** button in search mode (users can choose their web series season)
+- **Language** button in search mode (users can choose the language of their files)
+- **Quality** button in search mode (users can choose the quality of their files)
+- **Years** button in search mode (users can choose years of their movies)
+- Group admin can select their 3 shortner sites and tutorial video
+- Indexes files above 2GB
+- PreDVD and CamRip delete mode
+- Multiple file deletion
+- Settings menu
+- Welcome message
+- Automatic file filtering
+- Double filter button
+- Single filter button
+- Bot PM file send mode
+- Auto file send
+- Forward restriction
+- File protection
+- Manual file filtering
+- Global file filtering
 - IMDB
-- Admin Commands
-- User Broadcast
-- Group Broadcast
+- Admin commands
+- User broadcast
+- Group broadcast
 - Index
-- IMDB Search
-- Inline Search
-- Forward Restrictions
 - IMDB search
-- Inline Search
+- Inline search
 - Random pics
-- ids and User info
+- IDs and user info
 - Status
 - Users
 - Chats
-- User Ban
-- User Unban
-- Channel Leave
-- Channel Disable
-- Channel Enable
-- Channel List
-- Broadcast Message
-- Group Broadcast Message
+- User ban
+- User unban
+- Channel leave
+- Channel disable
+- Channel enable
+- Channel list
+- Broadcast message
+- Group broadcast message
 - Indexing
-- Add Filter
-- Remove Filter
+- Add filter
+- Remove filter
 - And furthermore, I don't remember all...
