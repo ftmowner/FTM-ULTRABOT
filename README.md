@@ -2,7 +2,7 @@
   <img src="https://envs.sh/0Ej.jpg">
 </p>
 <h1 align="center">
-  Biisal Filter Bot
+  FTM Ultra Bot
 </h1>
 
 First Check our **Demo** bot -
