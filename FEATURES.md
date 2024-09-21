@@ -1,4 +1,4 @@
-<center>FTM ULTRA BOT</center>
+# FTM ULTRA BOT
 
 - **3 Shortner** Verification Mode
 - Advance **Spell Check** Mode
