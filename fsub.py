@@ -36,7 +36,7 @@ async def force_subscribe(client, message):
 
 @Client.on_message(filters.command("del_fsub"))
 async def del_force_subscribe(client, message):
-    m = await message.reply_text("Wait im checking...")
+    m = await message.reply_text("Wait i am checking...")
     if not message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         return await m.edit("This command is only for groups!")
     if not await is_check_admin(client, message.chat.id, message.from_user.id):
